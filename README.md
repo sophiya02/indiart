@@ -1,2 +1,2 @@
 # indiart
-Platform for showcasing Indian art and culture.
+Platform for showcasing Indian art and culture...
